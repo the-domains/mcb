@@ -1,0 +1,23 @@
+name: MCB
+favicon: null
+layout_spectrum: 0.4071799989324063
+typography_spectrum: 0.9650284356903285
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.2536881319247186
+  lightness: 0.04737905762158334
+  saturation: 0.6097146000247449
+  rhythmicContrast: 0.05967516382224858
+purpose: []
